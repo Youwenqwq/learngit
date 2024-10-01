@@ -6,3 +6,5 @@ Git has a mutable index called stage.
 嘻嘻.
 
 不嘻嘻.
+
+嘻嘻不起来.
