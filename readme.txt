@@ -4,3 +4,5 @@ Git tracks changes.
 Git has a mutable index called stage.
 
 嘻嘻.
+
+不嘻嘻.
